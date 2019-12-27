@@ -1,9 +1,9 @@
-# [Now UI Kit Angular](https://creativetimofficial.github.io/now-ui-kit-angular/index) [![version][version-badge]][CHANGELOG]
+# [Fusion IT srl](https://creativetimofficial.github.io/now-ui-kit-angular/index) [![version][version-badge]][CHANGELOG]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/77/original/opt_nuk_angular_thumbnail.jpg? "Now UI Kit Angular")
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/77/original/opt_nuk_angular_thumbnail.jpg? "Fusion IT srl")
 
 
-**[Now UI Kit Angular](https://creativetimofficial.github.io/now-ui-kit-angular/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates.
+**[Fusion IT srl](https://creativetimofficial.github.io/now-ui-kit-angular/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates.
 
 Now UI Kit is one of the most popular UI Kits online, provided in PSD and Sketch formats by Invision. We wanted to find a way for developers worldwide to benefit from using it. So, in collaboration with Invision, we are launching the HTML version for it!
 

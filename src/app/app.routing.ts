@@ -12,8 +12,8 @@ import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes =[
     { path: '', redirectTo: 'index', pathMatch: 'full' },
-    { path: 'index',                component: ComponentsComponent },
-    { path: 'home',                component: HomeComponent },
+    { path: 'index',                component: HomeComponent },
+    // { path: 'home',                component: HomeComponent },
     { path: 'nucleoicons',          component: NucleoiconsComponent },
     { path: 'examples/landing',     component: LandingComponent },
     { path: 'examples/login',       component: LoginComponent },
